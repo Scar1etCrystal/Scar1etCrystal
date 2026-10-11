@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## I am...
+#### Robotics freshman
+#### interested in EE/DL.
+#### aimming to boost doujin creation by frontier tech. 
+
 <!--
 **Scar1etCrystal/Scar1etCrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
