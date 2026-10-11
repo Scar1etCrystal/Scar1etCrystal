@@ -1,7 +1,11 @@
 ## Hi there 👋 <br> I am...
-#### Robotics freshman
-#### interested in EE/DL.
-#### aiming to boost doujin creation with frontier tech. 
+- Robotics freshman
+- interested in EE/DL.
+- aiming to boost doujin creation with frontier tech.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scar1etCrystal&layout=compact&theme=radical)
+ 
+  
 
 <!--
 **Scar1etCrystal/Scar1etCrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
